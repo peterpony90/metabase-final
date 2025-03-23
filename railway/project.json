@@ -1,0 +1,8 @@
+{
+  "build": {
+    "builder": "NIXPACKS"
+  },
+  "deploy": {
+    "dockerComposeFile": "docker-compose.yml"
+  }
+}
